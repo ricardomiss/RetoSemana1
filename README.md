@@ -25,7 +25,7 @@ En este repositorio estaremos haciendo actualizaciones sobre diferentes concepto
 
 [DevOps](https://github.com/AlexDeal/RetoSemana1#que-es-un-devops)
 
-
+[Tabla de conceptos](https://github.com/AlexDeal/RetoSemana1#Servicios-de-Azure)
 ## :books: Conceptos
 ### ¿Que es modelo OSI?
 * Es un modelo conceptual, creado por la Organización Internacional para la Estandarización, que permite que diversos sistemas de comunicación se comuniquen entre sí usando protocolos estándar. O dicho con más claridad: OSI proporciona a los diferentes sistemas de ordenadores existentes un estándar para comunicarse entre sí.
