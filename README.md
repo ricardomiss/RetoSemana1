@@ -109,3 +109,27 @@ En este repositorio estaremos haciendo actualizaciones sobre diferentes concepto
 ### ¿Que es un DevOps?
 * Es una combinación de los términos ingleses development (desarrollo) y operations (operaciones), designa la unión de personas, procesos y tecnología para ofrecer valor a los clientes de forma constante. Permite que los roles que antes estaban aislados (desarrollo, operaciones de TI, ingeniería de la calidad y seguridad) se coordinen y colaboren para crear productos mejores y más confiables.
 
+### Servicios de Azure
+| Concepto | Descripcion |
+|--|--|
+| Tolerancia a fallos | Tomas ventaja de los servicios de respaldo, replicacion de datos y geodistribucion de la nuve. Tus datos estan seguros en caso de desastre. |
+| Agilidad | Implementacion y configuracion rapida de recursos de nube a medida que los requerimientos cambian. |
+| Escalabilidad Horizontal | Implementacion y configuracion rapida de recursos de nube a medida que los requerimientos cambian. |
+| Escalabilidad Vertical | Incremento de la capacidad de computo agregando RAM o CPU al recurso |
+| Zonas de disponibilidad | Centros de datos separados fisicamente dentro de una region de Azure con electricidad, refrigeracion y equipo independientes |
+| Geografias | Zona que contiene dos o mas regiones de mmicrosoft |
+| Elasticidad | Los recursos se pueden autoescalar dependiendo de la necesidad actual. Siempre tienes los recursos que necesitas. (La elasticidad es automatica y la escalabilidad es manual) |
+| Alta disponibilidad | Dependiendo del SLA, las aplicaciones de nuve pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal. |
+| Nivel de servicio (SLA) | Dependiendo del SLA, las aplicaciones de nuve pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal. |
+| Computo en la nube | Es la entrega de servicios de computo a traves de internet. |
+| Compute | Proporciona servicios de computo o procesamiento bajo demanda. |
+| Network | Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. |
+| Storage | Proporciona servicios de almacenamiento de archivos y objetos (Diferente a base de datos por ejemplo: fotos, videos, etc). |
+| Base de datos | Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. |
+| IoT | Proporciona servicios de Iot para conectar y recibir informacon de sensores, relojes inteligentes, maquinaria, etc. (Recarga datos y envia servicios por ejemplo guardarlos en una base de datos)|
+| Big data | Proporciona servicios para el procesamiento y analisis de grandes cantidades de registros. |
+| Inteligencia Artificial | Procesar imagenes, texto y voz. |
+| Grupos de recursos | Contenedor logico que incluye los recursos relacionados a una solucion (Evita fallas de seguridad, que se filtre la informacion, que alguien borre la base de datos) |
+| Recursos | Elemento administrable que está disponible mediante Azure |
+
+![image](https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2019/07/1-1.png)
