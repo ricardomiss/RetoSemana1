@@ -48,3 +48,42 @@ En este repositorio estaremos haciendo actualizaciones sobre diferentes concepto
 
 ### ¿Que es una API?
 * Se trata de un conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones, permitiendo la comunicación entre dos aplicaciones de software a través de un conjunto de reglas. Así pues, podemos hablar de una API como una especificación formal que establece cómo un módulo de un software se comunica o interactúa con otro para cumplir una o muchas funciones. Todo dependiendo de las aplicaciones que las vayan a utilizar, y de los permisos que les dé el propietario de la API a los desarrolladores de terceros.
+
+### ¿Que es un Framework?
+* Es un esquema (un esqueleto, un patrón) para el desarrollo y/o la implementación de una aplicación. Utilizar un framework permite agilizar los procesos de desarrollo ya que evita tener que escribir código de forma repetitiva, asegura unas buenas prácticas y la consistencia del código. Por tanto es un conjunto de herramientas y módulos que pueden ser reutilizados para varios proyectos.
+
+## CAPEX y OPEX
+![image](https://blog.aitana.es/wp-content/uploads/2019/11/capex-opex.jpg)
+
+### Capex
+* El Capex (capital expenditure o gasto en capital) es el gasto que una compañía realiza en bienes de equipo y que resulta en beneficios que garantizan y miden su crecimiento. Esto se da gracias a la adquisición de activos fijos o bien en el aumento del valor de los que ya existen. Se trata de la caja que una organización gestiona para mantener sus activos estables y en buenas condiciones. Por ejemplo, nuevas computadoras, material de oficina, equipos de transporte, mejores instalaciones, etc.
+
+![image](https://st4.depositphotos.com/13672908/31188/v/600/depositphotos_311885778-stock-illustration-capex-capital-expenditure-concept-with.jpg)
+
+### Opex
+* El Opex (Operational expenditures) son los gastos operativos o de explotación son conocidos como Opex, y son gastos que se realizan de forma continuada y están relacionados con las operaciones de la empresa. Es un costo permanente para el funcionamiento de un producto, negocio o sistema. Puede traducirse como gasto de funcionamiento, gastos operativos, o gastos operacionales.
+
+![image](https://image.shutterstock.com/image-vector/opex-operational-expenditure-concept-big-260nw-1519002905.jpg)
+
+## Acuerdo de nivel de servicio
+* SLA (Service Level Agreement), es un acuerdo escrito entre un proveedor de servicio y su cliente con objeto de fijar el nivel acordado para la calidad de dicho servicio. El ANS es una herramienta que ayuda a ambas partes a llegar a un consenso en términos del nivel de calidad del servicio, en aspectos tales como tiempo de respuesta, disponibilidad horaria, documentación disponible, personal asignado al servicio, etc.
+
+### Acuerdo de nivel de servicio en Azure
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png)
+
+### Azure Active Directory:
+* Garantizamos que habrá una disponibilidad del 99,99 % de los servicios de Azure Active Directory Básico y Premium. Los servicios se consideran disponibles en los siguientes escenarios:
+ * Los usuarios pueden iniciar sesión en el servicio Azure Active Directory.
+ * Azure Active Directory emite correctamente los tokens de autenticación y autorización necesarios para que los usuarios inicien sesión en las aplicaciones conectadas al servicio.
+ * No se ofrece un Contrato de nivel de servicio (SLA, Service Level Agreement) para la edición Free de Azure Active Directory.
+
+### Azure Active Directory B2C
+* Garantizamos una disponibilidad del 99,9 %, como mínimo, del servicio Azure Active Directory B2C. El servicio se considera disponible para un directorio en los siguientes escenarios:
+ * El servicio puede procesar el registro de un usuario, el inicio de sesión, la edición del perfil, el restablecimiento de la contraseña y solicitudes de autenticación multifactor.
+ * Los desarrolladores pueden crear, leer, escribir y eliminar entradas en el directorio.
+ * No se proporciona ningún SLA para el nivel Gratis de Azure Active Directory B2C.
+
+### ¿Que es un DevOps?
+* Es una combinación de los términos ingleses development (desarrollo) y operations (operaciones), designa la unión de personas, procesos y tecnología para ofrecer valor a los clientes de forma constante. Permite que los roles que antes estaban aislados (desarrollo, operaciones de TI, ingeniería de la calidad y seguridad) se coordinen y colaboren para crear productos mejores y más confiables.
+
