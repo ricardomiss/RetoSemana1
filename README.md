@@ -4,6 +4,28 @@
 En este repositorio estaremos haciendo actualizaciones sobre diferentes conceptos que necesitemos reforzar relacionadas a inteligencia artificial.
 ![image](https://user-images.githubusercontent.com/83625063/117548964-67eb6980-affd-11eb-9bb2-8ba916494de5.png)
 
+## Índice
+[Modelo OSI](https://github.com/AlexDeal/RetoSemana1#que-es-modelo-osi)
+
+[Protocolo TCP\IP](https://github.com/AlexDeal/RetoSemana1#que-es-protocolo-tcpip)
+
+[Servidor Espejo](https://github.com/AlexDeal/RetoSemana1#que-es-un-servidor-espejo)
+
+[IaaS, Paas y Saas](https://github.com/AlexDeal/RetoSemana1#iaas-paas-y-saas)
+
+[API](https://github.com/AlexDeal/RetoSemana1#que-es-una-api)
+
+[FrameWork](https://github.com/AlexDeal/RetoSemana1#que-es-un-framework)
+
+[CAPEX y OPEX](https://github.com/AlexDeal/RetoSemana1#capex-y-opex)
+
+[Acuerdo de nivel de servicio (SLA)](https://github.com/AlexDeal/RetoSemana1#acuerdo-de-nivel-de-servicio)
+
+[Acuerdo de nivel de servicio en Azure](https://github.com/AlexDeal/RetoSemana1#acuerdo-de-nivel-de-servicio-en-azure)
+
+[DevOps](https://github.com/AlexDeal/RetoSemana1#que-es-un-devops)
+
+
 ## :books: Conceptos
 ### ¿Que es modelo OSI?
 * Es un modelo conceptual, creado por la Organización Internacional para la Estandarización, que permite que diversos sistemas de comunicación se comuniquen entre sí usando protocolos estándar. O dicho con más claridad: OSI proporciona a los diferentes sistemas de ordenadores existentes un estándar para comunicarse entre sí.
